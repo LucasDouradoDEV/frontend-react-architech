@@ -1,0 +1,10 @@
+# Bloqueia o acesso de bots a certas partes do site
+User-agent: *
+Disallow: /admin/
+Disallow: /private/
+
+# Permite o acesso a tudo o resto
+Allow: /
+
+# Define o sitemap para melhor indexação
+Sitemap: https://www.exemplodominio.com/sitemap.xml
