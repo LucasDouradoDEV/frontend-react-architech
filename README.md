@@ -35,4 +35,4 @@ Arquitetura de pastas organizada para um projeto **React + TypeScript + Vite**. 
 
 
 ## Observação
-Não houve alterações no projeto, ou seja, o foco do repositório é apenas exemplificar a arquitetura de pastas para um projeto frontend completo utilizando REACTJS.
+Não houve alterações no projeto, ou seja, o foco do repositório é apenas exemplificar a arquitetura de pastas para um projeto frontend completo em REACTJS + VITEJS.
